@@ -1,19 +1,15 @@
-# Exploratory Data Analysis - Project_2
 
-#########################################################
+###############################################################################
 # Author: Sergio Contador
 # Date: March 2017
-# Description: Exploraty Data Analisys Course: Project 2
-# Steps:
-## 0. Load datasets.
-## 1. Merges the training and test sets to create one data set.
-## 2. Extracts only the measurements on the mean and standard deviation
-##    for each measurement. 
-## 3. Uses descriptive activity names to name the activities in the data set.
-## 4. Appropriately labels the data set with descriptive activity names. 
-## 5. Creates a second, independent tidy data set with the average of each 
-##    variable for each activity and each subject.
-#########################################################
+# Title: Exploraty Data Analisys Course: Project 2
+# Description:
+## make a plot to answer next question: Of the four types of sources 
+## indicated by the type (point, nonpoint, onroad,
+## nonroad) variable, which of these four sources have seen decreases in 
+## emissions from 1999 to 2008 for Baltimore City? 
+## Which have seen increases in emissions from 1999 to 2008?
+###############################################################################
 
 
 # Plot 3
